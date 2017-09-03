@@ -1,8 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
 use PHPUnit\DbUnit\TestCaseTrait;
-use PHPUnit\DbUnit\DataBase\DefaultConnection;
-use PHPUnit\DbUnit\DataSet\FlatXmlDataSet;
 
 class UserTest extends TestCase
 {
